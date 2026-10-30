@@ -1,5 +1,9 @@
 # 🌍 AirBeam Fall 2026
 
+
+<img src="AirBeamClassDataHubGuide.png" alt="Italian Trulli">
+
+
 Welcome, Air Quality Explorers!
 
 This is our class data hub for **PM2.5 air quality measurements** collected using AirBeam sensors.
