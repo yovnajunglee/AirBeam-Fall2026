@@ -1,8 +1,3 @@
-
-
-
-<img src="AirBeamClassDataHubGuide.png" alt="Italian Trulli">
-
 <p>🌍🌱 Please use the following folder to upload your data! 🌿💚</p>
 
 <p>
@@ -10,3 +5,8 @@
     🌎 <strong>Upload your data here</strong> 🌳
   </a>
 </p>
+
+
+
+<img src="AirBeamClassDataHubGuide.png" alt="Italian Trulli">
+
