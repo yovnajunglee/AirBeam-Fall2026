@@ -5,15 +5,13 @@ This repository is for class PM2.5 data uploads.
 ## File naming convention
 Files must follow this format:
 
-PM25_<studentID>_<sampleName>_<date>.csv
+PM25_\<name\>_\<daterecorded\>_\<session_number\>.csv
 
 Examples:
-- PM25_s12345_houseA_20261030.csv
-- PM25_s23456_run01_20261030.csv
-- PM25_s34567_fieldtrial_20261031.csv
+- PM25_yovnajunglee_20261023_1.csv
+- PM25_yovnajunglee_20261023_2.csv
+- PM25_yovnajunglee_20261021_1.csv
 
 ## Upload location
 Please upload your CSV files into the `data/` folder.
 
-## Download
-To download all files, click the green `Code` button and select `Download ZIP`.
